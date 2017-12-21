@@ -27,3 +27,17 @@ These labs were based on the "Big Data Analysis with Apache Spark" EdX course by
 - [Machine Learning: Feature Hashing using the Criteo Labs Kaggle Dataset](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4130916707478699/3095737229371807/5235271887646276/latest.html)
 
 - [Machine Learning: Principal Component Analysis (PCA)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4130916707478699/263478820282756/5235271887646276/latest.html)
+
+## Assignments
+
+The assignments applied and expanded the skills developed during the lectures and workshops using real data.
+
+- [Message Decryption](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4130916707478699/1127045857967440/5235271887646276/latest.html)
+
+- [Word Count](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4130916707478699/2984331845604034/5235271887646276/latest.html)
+
+- [Exploring TranQuant's Web Server logs](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4130916707478699/4120142880538896/5235271887646276/latest.html)
+
+- [Linear Regression Model for Online News Popularity using MLlib](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4130916707478699/691847368044381/5235271887646276/latest.html)
+
+- [Expanding the Feature Hashing Lab](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4130916707478699/2749028186090169/5235271887646276/latest.html)
