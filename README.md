@@ -41,3 +41,13 @@ The assignments applied and expanded the skills developed during the lectures an
 - [Linear Regression Model for Online News Popularity using MLlib](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4130916707478699/691847368044381/5235271887646276/latest.html)
 
 - [Expanding the Feature Hashing Lab](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4130916707478699/2749028186090169/5235271887646276/latest.html)
+
+## Wattpad Challenge
+
+For the final challenge our team developed a recommendation algorithm for new Wattpad users based on their geolocation. We used the alternating least squares (ALS) algorithm in Spark's MLlib for collaborative filtering.
+
+[Link to slides](https://docs.google.com/presentation/d/e/2PACX-1vSXNf8njaBahorRQkuWa0pCTV3v6LZy0NcnK79iQxrB0QzvlLKYr7e1ddI9gbSOCkYoc-dHGUvl9Sfg/pub?start=false&loop=false&delayms=60000)
+
+[Link to notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4130916707478699/4006095318612659/5235271887646276/latest.html)
+
+
